@@ -1,0 +1,201 @@
+#bg {
+    /* The image used */
+    background-image: url("/BMOnline/imgs/AI.png");
+
+    /* Full height */
+    height:480px;
+    width: 1347px;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#bg1 {
+    /* The image used */
+    background-image: url("/BMOnline/imgs/saftyguard.png");
+
+    /* Full height */
+    height:480px;
+    width: 1347px;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#combo {
+    /* The image used */
+    background-image: url("/BMOnline/imgs/rectangle.png");
+
+    /* Full height */
+    height:580px;
+    width: 1347px;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#hr_border {
+    border-width: 3px; 
+    border-color: steelblue;
+}
+
+.story_text_position {
+    text-align:center;
+}
+
+.story_text{
+    color: grey;
+    font-size: 15px;
+}
+
+.bt {
+    color:white;
+    
+}
+
+.bt1 {
+    color: grey;
+    
+}
+
+.left {
+    padding-left: 88px;
+}
+
+.head_text {
+    padding-top: 110px;
+}
+
+.combo_text {
+    padding-top: 50px;
+    color: white;
+}
+
+.combo_text1 {
+    color: white;
+}
+
+.combo_text_position {
+    text-align: center;
+}
+
+#text1 {
+    padding-top: 50px;
+    text-align: center;
+    color: dodgerblue;
+}
+
+#intergration_div {
+    width: 280px;
+    height: 300px;
+    background-color: white;
+    margin: 80px auto;
+}
+
+#intergration_div2 {
+    width: 230px;
+    height: 260px;
+    background-color: white;
+    margin-top: -20px;
+    margin-left: 302px;
+}
+
+#intergration_div3 {
+    width: 230px;
+    height: 260px;
+    background-color: white;
+    margin-top: -61px;
+    margin-left: 814px;
+}
+
+#intergration_img_div {
+    
+    margin-top: -420px;
+    margin-left: 630px;
+}
+
+#intergration_img_div2 {
+    
+    margin-top: -300px;
+    margin-left: 380px;
+}
+
+#intergration_img_div3 {
+    
+    margin-top: -300px;
+    margin-left: 380px;
+}
+
+
+
+#combo_btn_div {
+    padding-top: 270px;
+}
+
+#bottom_text {
+    font-size: 12px;
+}
+
+#bottom_heading {
+    font-size: 15px;
+}
+
+#bottom_div {
+    padding-top: 50px;
+}
+
+#video_div {
+    background-color: lightgray;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+}
+
+#video_text {
+    padding-left:4px;
+}
+
+#story_div {
+     padding-bottom: 50px;
+   
+}
+
+
+#underline {
+    padding-top: 80px
+}
+
+#oc {
+    color: orange
+}
+
+#detail_btn {
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 88px;
+    margin-top: 40px
+}
+
+.detail_btn{
+    text-align: center;
+}
+
+#main_page_thum_img {
+    margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+#main_page_thum_bc {
+    background-color: gainsboro!important;
+    height: 320px;
+}
+
+#main_page_container {
+    padding-top: 70px;
+}
+#main_page_thum {
+    height: 500px;    
+}
